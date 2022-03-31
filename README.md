@@ -8,4 +8,8 @@ it now includes step for github
 
 a new step added for git pull check
 
-# a new line
+
+ a new line
+
+*NOTHER NEW LINE FOR GIT BRANCH
+
