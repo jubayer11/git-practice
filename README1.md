@@ -33,6 +33,9 @@ bdrtyesr ty ersty
 
 //hehnhe
 
+<<<<<<< HEAD
 //revert1
 
 //revert2
+=======
+>>>>>>> parent of ad71174 (revert1)
