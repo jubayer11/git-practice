@@ -16,4 +16,9 @@ hello adding project
 
 #fork and checking ahead for repository
 
+
 //checking revert
+
+fork checking from main repository.
+
+
