@@ -22,6 +22,3 @@ hello adding project
 fork checking from main repository.
 
 
-// checking reset
-
-//hdhhd
