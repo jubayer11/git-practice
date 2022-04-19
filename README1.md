@@ -17,14 +17,9 @@ hello adding project
 #fork and checking ahead for repository
 
 
-//checking revert
-
-fork checking from main repository.
-
-
 //hehnhe
-hhedftg yet ert ert t efrgdfgdfgdf 
-
+hhedftg yet ert ert t efrgdfgdfgdf
+//checking revert
 bdrtyesr ty ersty
 //qwskdnjkwqhgvd
 #skabqDVB
@@ -35,4 +30,6 @@ bdrtyesr ty ersty
 
 //revert3
 
-//revert4
+
+//hehnhe
+
