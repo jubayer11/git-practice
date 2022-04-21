@@ -40,4 +40,14 @@ bdrtyesr ty ersty
 =======
 >>>>>>> parent of ad71174 (revert1)
 
+
 //alternative rebase branch
+
+
+//hello
+/hello
+//hello
+
+
+//checking rebase
+
