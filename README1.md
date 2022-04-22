@@ -55,11 +55,15 @@ bdrtyesr ty ersty
 
 //checking rebase
 
+
 //adding code before rebasing
 
 //reabse 1
 
 //rebase 2
+
+
+//before merge
 
 //merge 1
 
